@@ -1,7 +1,7 @@
 {
   "name": "ticketfly-css-typography-variables",
-  "version": "0.1.0",
-  "description": "Display utilities for Ticketfly CSS",
+  "version": "0.2.0",
+  "description": "Typography variables for Ticketfly CSS",
   "main": "index.css",
   "style": "index.css",
   "keywords": [

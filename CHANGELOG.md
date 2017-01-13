@@ -1,4 +1,9 @@
-# 0.0.1 &mdash; January 10, 2017
+# 0.2.0 &mdash; January 12, 2017
+
+- **[BREAKING CHANGE]** change `--letter-spacing__uppercase` to `0.12em`.
+
+
+# 0.1.0 &mdash; January 10, 2017
 
 - Bump version to `0.1.0` to start recommending usage.
 
