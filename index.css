@@ -7,7 +7,7 @@
   /* ------ Letter Spacing --------- */
 
   --letter-spacing: 1;
-  --letter-spacing__uppercase: 0.2em;
+  --letter-spacing__uppercase: 0.12em;
 
 
   /* ------ Line Height Multipliers (For setting line height as a multiple of the current font size) --------- */
